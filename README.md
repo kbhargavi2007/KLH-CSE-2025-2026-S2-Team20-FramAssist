@@ -14,7 +14,7 @@ Farm Assist/
 ├── src/
 │   ├── Main.java
 │   ├── SearchEngine.java
-│   └── KMPAlgorithm.java
+│   └── ZAgorithm.java
 └── README.md
 
 This folder structure helps organize project documents separately from the Java source code, making the project easier to maintain and manage.
