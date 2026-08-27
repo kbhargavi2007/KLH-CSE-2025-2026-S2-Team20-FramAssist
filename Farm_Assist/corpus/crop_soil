@@ -1,0 +1,220 @@
+Crop and Soil Suitability
+Source file: crop_soil.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Record_ID: CS01
+Crop_Name: Rice
+Preferred_Soil: Clay or clay loam alluvial soil
+Suitable_pH: 5.5 to 6.5
+Drainage_Requirement: Standing water tolerant
+Important_Soil_Notes: Puddled field helps retain water for transplanting
+
+Wheat
+Record_ID: CS02
+Crop_Name: Wheat
+Preferred_Soil: Loam to clay loam alluvial soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Fine tilth seedbed improves germination
+
+Maize
+Record_ID: CS03
+Crop_Name: Maize
+Preferred_Soil: Well drained loam to sandy loam soil
+Suitable_pH: 5.5 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Sensitive to waterlogging at early growth stage
+
+Sorghum
+Record_ID: CS04
+Crop_Name: Sorghum
+Preferred_Soil: Medium to heavy black or red soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Tolerates moderate soil moisture stress
+
+Pearl Millet
+Record_ID: CS05
+Crop_Name: Pearl Millet
+Preferred_Soil: Sandy or sandy loam soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Performs well in low fertility sandy soils
+
+Finger Millet
+Record_ID: CS06
+Crop_Name: Finger Millet
+Preferred_Soil: Well drained red or loam soil
+Suitable_pH: 5.0 to 7.0
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Adapted to marginal soils
+
+Chickpea
+Record_ID: CS07
+Crop_Name: Chickpea
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Waterlogging causes root rot risk
+
+Pigeon Pea
+Record_ID: CS08
+Crop_Name: Pigeon Pea
+Preferred_Soil: Well drained loam to red soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Sensitive to waterlogging
+
+Green Gram
+Record_ID: CS09
+Crop_Name: Green Gram
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.2 to 7.2
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Prefers medium fertility soils
+
+Black Gram
+Record_ID: CS10
+Crop_Name: Black Gram
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Grows well after cereal crops in rotation
+
+Groundnut
+Record_ID: CS11
+Crop_Name: Groundnut
+Preferred_Soil: Sandy loam soil
+Suitable_pH: 6.0 to 6.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Loose friable soil aids pod development
+
+Soybean
+Record_ID: CS12
+Crop_Name: Soybean
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Waterlogging reduces nodulation
+
+Sunflower
+Record_ID: CS13
+Crop_Name: Sunflower
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.5 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Deep soil supports strong root system
+
+Mustard
+Record_ID: CS14
+Crop_Name: Mustard
+Preferred_Soil: Loam to clay loam soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Requires moisture at flowering stage
+
+Cotton
+Record_ID: CS15
+Crop_Name: Cotton
+Preferred_Soil: Deep black cotton soil
+Suitable_pH: 6.0 to 8.0
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Deep soil retains moisture for long duration crop
+
+Sugarcane
+Record_ID: CS16
+Crop_Name: Sugarcane
+Preferred_Soil: Deep fertile loam soil
+Suitable_pH: 6.5 to 7.5
+Drainage_Requirement: Well drained yet moisture retentive
+Important_Soil_Notes: High organic matter improves yield
+
+Tomato
+Record_ID: CS17
+Crop_Name: Tomato
+Preferred_Soil: Well drained sandy loam to loam soil
+Suitable_pH: 6.0 to 7.0
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Sensitive to waterlogging causing root disease
+
+Potato
+Record_ID: CS18
+Crop_Name: Potato
+Preferred_Soil: Well drained sandy loam soil
+Suitable_pH: 5.0 to 6.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Loose soil aids tuber development
+
+Onion
+Record_ID: CS19
+Crop_Name: Onion
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.0 to 7.0
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Fine tilth required for bulb development
+
+Chilli
+Record_ID: CS20
+Crop_Name: Chilli
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 6.0 to 7.0
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Avoid waterlogged fields to reduce disease
+
+Brinjal
+Record_ID: CS21
+Crop_Name: Brinjal
+Preferred_Soil: Well drained loam soil
+Suitable_pH: 5.5 to 7.0
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Responds well to organic matter addition
+
+Cabbage
+Record_ID: CS22
+Crop_Name: Cabbage
+Preferred_Soil: Well drained loam soil rich in organic matter
+Suitable_pH: 6.0 to 6.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Requires consistent moisture for head formation
+
+Cauliflower
+Record_ID: CS23
+Crop_Name: Cauliflower
+Preferred_Soil: Well drained loam soil rich in organic matter
+Suitable_pH: 6.0 to 6.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Sensitive to boron deficiency in light soils
+
+Banana
+Record_ID: CS24
+Crop_Name: Banana
+Preferred_Soil: Deep well drained loam soil
+Suitable_pH: 6.0 to 7.5
+Drainage_Requirement: Well drained yet moisture retentive
+Important_Soil_Notes: Requires high organic matter and good drainage
+
+Mango
+Record_ID: CS25
+Crop_Name: Mango
+Preferred_Soil: Deep well drained soil
+Suitable_pH: 5.5 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Sensitive to waterlogging at root zone
+
+Turmeric
+Record_ID: CS26
+Crop_Name: Turmeric
+Preferred_Soil: Well drained loam soil rich in organic matter
+Suitable_pH: 5.5 to 7.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Raised bed cultivation recommended in heavy soils
+
+Ginger
+Record_ID: CS27
+Crop_Name: Ginger
+Preferred_Soil: Well drained loam soil rich in organic matter
+Suitable_pH: 5.5 to 6.5
+Drainage_Requirement: Well drained
+Important_Soil_Notes: Prone to rhizome rot in waterlogged soil
+

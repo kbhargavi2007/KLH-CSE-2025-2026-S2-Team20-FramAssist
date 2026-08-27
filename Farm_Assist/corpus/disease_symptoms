@@ -1,0 +1,202 @@
+Disease Symptoms
+Source file: disease_symptoms.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Record_ID: DS01
+Crop_Name: Rice
+Symptom: Spindle shaped lesions with grey centre
+Possible_Disease: Rice Blast
+Affected_Plant_Part: Leaf
+Severity_Indicator: High severity if unmanaged, can cause total crop loss
+Notes: Neck infection at panicle stage is most damaging
+
+Rice
+Record_ID: DS02
+Crop_Name: Rice
+Symptom: Water soaked yellow streaks along leaf margin
+Possible_Disease: Bacterial Leaf Blight
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate to high severity depending on stage
+Notes: Spreads faster under high humidity with standing water
+
+Wheat
+Record_ID: DS03
+Crop_Name: Wheat
+Symptom: Reddish brown pustules on leaf surface
+Possible_Disease: Wheat Rust
+Affected_Plant_Part: Leaf and stem
+Severity_Indicator: High severity if not managed timely
+Notes: Favoured by cool humid weather with dew
+
+Wheat
+Record_ID: DS04
+Crop_Name: Wheat
+Symptom: Black powdery mass replacing part of grain with foul odour
+Possible_Disease: Karnal Bunt
+Affected_Plant_Part: Grain
+Severity_Indicator: Quality and marketability concern
+Notes: Affects grain quality and export acceptability
+
+Maize
+Record_ID: DS05
+Crop_Name: Maize
+Symptom: Elliptical grey green lesions on leaves
+Possible_Disease: Turcicum Leaf Blight
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate to high severity in humid conditions
+Notes: Reduces photosynthetic area affecting yield
+
+Chickpea
+Record_ID: DS06
+Crop_Name: Chickpea
+Symptom: One sided yellowing and wilting of plant
+Possible_Disease: Fusarium Wilt
+Affected_Plant_Part: Whole plant
+Severity_Indicator: High severity, can cause complete plant death
+Notes: Soil borne disease persisting in field for years
+
+Chickpea
+Record_ID: DS07
+Crop_Name: Chickpea
+Symptom: Concentric ring lesions on leaves stems and pods
+Possible_Disease: Ascochyta Blight
+Affected_Plant_Part: Leaf stem and pod
+Severity_Indicator: High severity under cool humid weather
+Notes: Can spread rapidly in cloudy weather
+
+Groundnut
+Record_ID: DS08
+Crop_Name: Groundnut
+Symptom: Brown circular spots with yellow halo
+Possible_Disease: Tikka Leaf Spot
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate to high severity reducing photosynthesis
+Notes: Common in warm humid conditions
+
+Groundnut
+Record_ID: DS09
+Crop_Name: Groundnut
+Symptom: White fungal growth at collar with seedling rot
+Possible_Disease: Collar Rot
+Affected_Plant_Part: Collar region and seedling
+Severity_Indicator: High severity at seedling stage
+Notes: Seed treatment helps in prevention
+
+Cotton
+Record_ID: DS10
+Crop_Name: Cotton
+Symptom: Angular water soaked spots turning black
+Possible_Disease: Bacterial Blight
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate to high severity in humid weather
+Notes: Veinal blackening is a key identification feature
+
+Sugarcane
+Record_ID: DS11
+Crop_Name: Sugarcane
+Symptom: Red internal tissue with white patches and alcoholic smell
+Possible_Disease: Red Rot
+Affected_Plant_Part: Stalk
+Severity_Indicator: High severity, major yield and sugar quality loss
+Notes: Use of resistant varieties is key management strategy
+
+Tomato
+Record_ID: DS12
+Crop_Name: Tomato
+Symptom: Concentric ring spots on older leaves
+Possible_Disease: Early Blight
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate severity progressing over season
+Notes: Managed through crop rotation and timely fungicide use
+
+Tomato
+Record_ID: DS13
+Crop_Name: Tomato
+Symptom: Water soaked lesions with white growth under leaf
+Possible_Disease: Late Blight
+Affected_Plant_Part: Leaf and fruit
+Severity_Indicator: High severity, can destroy crop rapidly in favourable weather
+Notes: Cool moist weather accelerates disease spread
+
+Tomato
+Record_ID: DS14
+Crop_Name: Tomato
+Symptom: Upward curling and crinkling of leaves
+Possible_Disease: Leaf Curl Virus
+Affected_Plant_Part: Leaf
+Severity_Indicator: High severity affecting yield significantly
+Notes: Managed mainly through whitefly vector control
+
+Potato
+Record_ID: DS15
+Crop_Name: Potato
+Symptom: Water soaked lesions on leaves with tuber rot
+Possible_Disease: Late Blight
+Affected_Plant_Part: Leaf and tuber
+Severity_Indicator: High severity, can cause storage losses too
+Notes: Field and store management both important
+
+Onion
+Record_ID: DS16
+Crop_Name: Onion
+Symptom: Purplish brown lesions with zonation on leaves
+Possible_Disease: Purple Blotch
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate to high severity reducing bulb size
+Notes: Favoured by warm humid weather with dew
+
+Chilli
+Record_ID: DS17
+Crop_Name: Chilli
+Symptom: Sunken circular spots on fruit
+Possible_Disease: Anthracnose or Die Back
+Affected_Plant_Part: Fruit and twig
+Severity_Indicator: High severity affecting marketable fruit quality
+Notes: Warm humid weather with high rainfall favours spread
+
+Cabbage
+Record_ID: DS18
+Crop_Name: Cabbage
+Symptom: V shaped yellow lesions from leaf margin
+Possible_Disease: Black Rot
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate to high severity affecting head quality
+Notes: Blackened veins are a key identification feature
+
+Banana
+Record_ID: DS19
+Crop_Name: Banana
+Symptom: Yellowing of older leaves with pseudostem splitting
+Possible_Disease: Panama Wilt
+Affected_Plant_Part: Whole plant
+Severity_Indicator: High severity, soil borne and difficult to manage
+Notes: Resistant variety use is important preventive measure
+
+Mango
+Record_ID: DS20
+Crop_Name: Mango
+Symptom: White powdery growth on flower panicles
+Possible_Disease: Powdery Mildew
+Affected_Plant_Part: Flower panicle and young leaf
+Severity_Indicator: High severity affecting fruit set
+Notes: Cool dry weather during flowering favours disease
+
+Turmeric
+Record_ID: DS21
+Crop_Name: Turmeric
+Symptom: Irregular brown spots with yellow halo on leaves
+Possible_Disease: Leaf Blotch
+Affected_Plant_Part: Leaf
+Severity_Indicator: Moderate severity reducing rhizome yield
+Notes: Warm humid weather with high rainfall favours spread
+
+Ginger
+Record_ID: DS22
+Crop_Name: Ginger
+Symptom: Yellowing wilting with soft rotten rhizome
+Possible_Disease: Rhizome Rot
+Affected_Plant_Part: Rhizome and pseudostem
+Severity_Indicator: High severity, can cause major yield loss
+Notes: Waterlogging is a key predisposing factor
+

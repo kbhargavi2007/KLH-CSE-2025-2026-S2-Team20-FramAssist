@@ -1,0 +1,104 @@
+Government Schemes
+Source file: government_schemes.txt
+Each entry below starts with a heading (Scheme_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Pradhan Mantri Kisan Samman Nidhi PM-KISAN
+Scheme_ID: GS01
+Scheme_Name: Pradhan Mantri Kisan Samman Nidhi PM-KISAN
+Government_Level: Central Government of India
+Main_Purpose: Direct income support to farmer families
+Target_Beneficiaries: Eligible landholding farmer families
+Key_Benefit: Financial assistance of Rs 6000 per year paid in three equal instalments through Direct Benefit Transfer, scheme extended for 2026-27 to 2030-31, verify current instalment status on official portal
+General_Eligibility: Landholding farmer families as per scheme guidelines, subject to exclusion criteria, verify current eligibility on official portal
+Official_Source: Ministry of Agriculture and Farmers Welfare pmkisan.gov.in
+
+Pradhan Mantri Fasal Bima Yojana PMFBY
+Scheme_ID: GS02
+Scheme_Name: Pradhan Mantri Fasal Bima Yojana PMFBY
+Government_Level: Central Government of India
+Main_Purpose: Crop insurance to protect farmers against crop loss
+Target_Beneficiaries: Farmers growing notified crops in notified areas
+Key_Benefit: Insurance coverage against yield loss due to natural calamities pests and diseases, exact premium and claim details verify with local agricultural expert or official portal
+General_Eligibility: Farmers with insurable interest in notified crop in notified area, verify current eligibility on official portal
+Official_Source: Ministry of Agriculture and Farmers Welfare pmfby.gov.in
+
+Soil Health Card Scheme
+Scheme_ID: GS03
+Scheme_Name: Soil Health Card Scheme
+Government_Level: Central Government of India
+Main_Purpose: Provide farmers with soil nutrient status and fertilizer recommendations
+Target_Beneficiaries: All farmers
+Key_Benefit: Soil health card with crop wise fertilizer and nutrient recommendations, verify current details with local agriculture department
+General_Eligibility: Farmers can apply through local agriculture department, verify current process on official portal
+Official_Source: Department of Agriculture and Farmers Welfare soilhealth.dac.gov.in
+
+Kisan Credit Card KCC Scheme
+Scheme_ID: GS04
+Scheme_Name: Kisan Credit Card KCC Scheme
+Government_Level: Central Government of India
+Main_Purpose: Provide farmers with timely access to short term credit
+Target_Beneficiaries: Farmers including tenant farmers and self help group members as per guidelines
+Key_Benefit: Short term credit at concessional interest rate for crop production and allied needs, exact terms verify with bank or local agricultural expert
+General_Eligibility: Farmers meeting bank and scheme eligibility criteria, verify current process with local bank branch
+Official_Source: Department of Agriculture and Farmers Welfare and RBI guidelines, verify at nearest bank branch
+
+Pradhan Mantri Krishi Sinchayee Yojana PMKSY
+Scheme_ID: GS05
+Scheme_Name: Pradhan Mantri Krishi Sinchayee Yojana PMKSY
+Government_Level: Central Government of India
+Main_Purpose: Improve irrigation coverage and water use efficiency
+Target_Beneficiaries: Farmers across the country
+Key_Benefit: Support for irrigation infrastructure including micro irrigation, exact component wise benefit verify on official portal
+General_Eligibility: Farmers as per scheme guidelines and state implementation rules, verify current eligibility on official portal
+Official_Source: Ministry of Jal Shakti and Ministry of Agriculture and Farmers Welfare pmksy.gov.in
+
+National Food Security Mission NFSM
+Scheme_ID: GS06
+Scheme_Name: National Food Security Mission NFSM
+Government_Level: Central Government of India
+Main_Purpose: Increase production of rice wheat pulses and other crops
+Target_Beneficiaries: Farmers growing targeted crops in identified districts
+Key_Benefit: Support for seed inputs and technology demonstrations, exact benefit varies by component and state, verify with local agriculture department
+General_Eligibility: Farmers in identified districts growing targeted crops, verify current eligibility with local agriculture department
+Official_Source: Ministry of Agriculture and Farmers Welfare nfsm.gov.in
+
+Rashtriya Krishi Vikas Yojana RKVY
+Scheme_ID: GS07
+Scheme_Name: Rashtriya Krishi Vikas Yojana RKVY
+Government_Level: Central Government of India
+Main_Purpose: Support state level agriculture and allied sector development
+Target_Beneficiaries: Farmers benefiting from state implemented projects
+Key_Benefit: Support for various agriculture and allied sector projects at state level, exact benefit varies by state project, verify with state agriculture department
+General_Eligibility: Farmers covered under approved state RKVY projects, verify current eligibility with state agriculture department
+Official_Source: Ministry of Agriculture and Farmers Welfare rkvy.nic.in
+
+Electronic National Agriculture Market e-NAM
+Scheme_ID: GS08
+Scheme_Name: Electronic National Agriculture Market e-NAM
+Government_Level: Central Government of India
+Main_Purpose: Provide farmers with online trading platform for better price discovery
+Target_Beneficiaries: Farmers selling produce through integrated mandis
+Key_Benefit: Access to wider market and transparent price discovery through online trading, verify participating mandi list on official portal
+General_Eligibility: Farmers registered with integrated e-NAM mandis, verify current registration process on official portal
+Official_Source: Ministry of Agriculture and Farmers Welfare enam.gov.in
+
+PM Kisan Urja Suraksha evam Utthaan Mahabhiyan PM-KUSUM
+Scheme_ID: GS09
+Scheme_Name: PM Kisan Urja Suraksha evam Utthaan Mahabhiyan PM-KUSUM
+Government_Level: Central Government of India
+Main_Purpose: Promote solar energy use in agriculture including solar pumps
+Target_Beneficiaries: Farmers seeking solar pump or solar power installations
+Key_Benefit: Financial support for installation of solar pumps and grid connected solar plants, exact subsidy details verify with local agriculture or energy department
+General_Eligibility: Farmers as per scheme component guidelines, verify current eligibility with state nodal agency
+Official_Source: Ministry of New and Renewable Energy pmkusum.mnre.gov.in
+
+Agriculture Infrastructure Fund AIF
+Scheme_ID: GS10
+Scheme_Name: Agriculture Infrastructure Fund AIF
+Government_Level: Central Government of India
+Main_Purpose: Support creation of post harvest and farm gate infrastructure
+Target_Beneficiaries: Farmers farmer producer organizations and agri entrepreneurs
+Key_Benefit: Interest subvention and credit guarantee support for eligible infrastructure projects, exact terms verify with participating bank or official portal
+General_Eligibility: Eligible entities as per scheme guidelines including farmers and farmer producer organizations, verify current eligibility on official portal
+Official_Source: Ministry of Agriculture and Farmers Welfare agriinfra.dac.gov.in
+

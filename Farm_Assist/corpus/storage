@@ -1,0 +1,139 @@
+Storage
+Source file: storage.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Record_ID: ST01
+Crop_Name: Rice
+Storage_Method: Store in clean dry gunny bags or bins in ventilated godown
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Insect infestation and moisture related spoilage
+Prevention: Proper drying and periodic monitoring with clean storage structures
+
+Wheat
+Record_ID: ST02
+Crop_Name: Wheat
+Storage_Method: Store in clean dry gunny bags or bins in ventilated godown
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Weevil infestation and fungal spoilage
+Prevention: Proper drying and use of hermetic or well sealed storage where possible
+
+Maize
+Record_ID: ST03
+Crop_Name: Maize
+Storage_Method: Store in clean dry bags or cribs with good ventilation
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Weevil infestation and aflatoxin risk in humid storage
+Prevention: Proper drying and periodic monitoring with clean storage structures
+
+Chickpea
+Record_ID: ST04
+Crop_Name: Chickpea
+Storage_Method: Store in clean dry bags or bins
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Bruchid beetle infestation
+Prevention: Proper drying and use of hermetic storage where possible
+
+Groundnut
+Record_ID: ST05
+Crop_Name: Groundnut
+Storage_Method: Store pods in clean dry gunny bags with good ventilation
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Aflatoxin contamination risk in humid storage
+Prevention: Proper drying to safe moisture and avoiding damaged pods in storage
+
+Cotton
+Record_ID: ST06
+Crop_Name: Cotton
+Storage_Method: Store lint in clean dry covered storage away from moisture
+Recommended_Conditions: Cool dry covered storage space
+Moisture_Considerations: Keep lint dry to avoid quality deterioration
+Common_Storage_Problems: Moisture absorption reducing lint quality and fire risk
+Prevention: Proper baling and storage away from moisture and ignition sources
+
+Sugarcane
+Record_ID: ST07
+Crop_Name: Sugarcane
+Storage_Method: Process promptly, minimal storage as fresh cane
+Recommended_Conditions: Process within short period after harvest
+Moisture_Considerations: Not typically stored long term as fresh cane
+Common_Storage_Problems: Sucrose loss and quality deterioration with delay
+Prevention: Minimize delay between harvest and processing
+
+Tomato
+Record_ID: ST08
+Crop_Name: Tomato
+Storage_Method: Store in cool ventilated place or cold storage for short duration
+Recommended_Conditions: Cool storage around recommended low temperature range, verify exact range with local agricultural expert
+Moisture_Considerations: Avoid moisture accumulation causing rot
+Common_Storage_Problems: Rapid spoilage and fungal rot
+Prevention: Careful handling and prompt marketing or cold storage
+
+Potato
+Record_ID: ST09
+Crop_Name: Potato
+Storage_Method: Store in cool dark ventilated storage or cold storage
+Recommended_Conditions: Cool dark storage around recommended low temperature range, verify exact range with local agricultural expert
+Moisture_Considerations: Avoid light exposure causing greening
+Common_Storage_Problems: Sprouting rot and greening under poor storage conditions
+Prevention: Proper curing and storage in dark ventilated conditions
+
+Onion
+Record_ID: ST10
+Crop_Name: Onion
+Storage_Method: Store in well ventilated dry storage structure
+Recommended_Conditions: Cool dry well ventilated storage space
+Moisture_Considerations: Proper curing before storage to reduce moisture
+Common_Storage_Problems: Sprouting and rot under humid conditions
+Prevention: Proper curing and use of ventilated storage structures
+
+Chilli
+Record_ID: ST11
+Crop_Name: Chilli
+Storage_Method: Store dried pods in clean dry bags in ventilated space
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Fungal spoilage and insect infestation in humid storage
+Prevention: Proper drying and clean storage containers
+
+Banana
+Record_ID: ST12
+Crop_Name: Banana
+Storage_Method: Store at recommended cool temperature for ripening control
+Recommended_Conditions: Controlled temperature and humidity as per market requirement, verify with local agricultural expert
+Moisture_Considerations: Manage ripening stage through temperature control
+Common_Storage_Problems: Rapid over ripening and physical damage during handling
+Prevention: Careful handling and appropriate temperature management
+
+Mango
+Record_ID: ST13
+Crop_Name: Mango
+Storage_Method: Store in cool ventilated place or cold storage for extending shelf life
+Recommended_Conditions: Cool storage around recommended low temperature range, verify exact range with local agricultural expert
+Moisture_Considerations: Avoid chilling injury from very low temperature
+Common_Storage_Problems: Rapid ripening and fungal rot in warm humid storage
+Prevention: Careful handling and appropriate temperature management
+
+Turmeric
+Record_ID: ST14
+Crop_Name: Turmeric
+Storage_Method: Store dried and processed rhizomes or powder in clean dry containers
+Recommended_Conditions: Cool dry storage space
+Moisture_Considerations: Dry to safe moisture level before storage, verify exact percentage with local agricultural expert
+Common_Storage_Problems: Insect infestation and fungal spoilage
+Prevention: Proper curing drying and clean storage containers
+
+Ginger
+Record_ID: ST15
+Crop_Name: Ginger
+Storage_Method: Store fresh rhizomes in cool ventilated place or process and dry for storage
+Recommended_Conditions: Cool dry ventilated storage space
+Moisture_Considerations: Avoid excess moisture causing rot
+Common_Storage_Problems: Rhizome rot and shrinkage during storage
+Prevention: Proper curing and monitoring during storage
+

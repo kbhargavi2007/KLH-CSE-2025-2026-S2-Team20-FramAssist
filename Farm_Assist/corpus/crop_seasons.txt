@@ -1,0 +1,220 @@
+Crop Seasons
+Source file: crop_seasons.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Record_ID: S001
+Crop_Name: Rice
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: October to November
+Suitable_Conditions: Warm humid climate with assured monsoon or irrigation
+
+Wheat
+Record_ID: S002
+Crop_Name: Wheat
+Season: Rabi
+Sowing_Period: October to December
+Harvest_Period: March to April
+Suitable_Conditions: Cool growing season with warm dry period at maturity
+
+Maize
+Record_ID: S003
+Crop_Name: Maize
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: September to October
+Suitable_Conditions: Warm climate with moderate rainfall
+
+Maize
+Record_ID: S004
+Crop_Name: Maize
+Season: Rabi
+Sowing_Period: October to November
+Harvest_Period: February to March
+Suitable_Conditions: Mild winter with irrigation support
+
+Sorghum
+Record_ID: S005
+Crop_Name: Sorghum
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: September to October
+Suitable_Conditions: Warm dry climate tolerant of low rainfall
+
+Pearl Millet
+Record_ID: S006
+Crop_Name: Pearl Millet
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: September to October
+Suitable_Conditions: Hot and dry climate suited to arid regions
+
+Finger Millet
+Record_ID: S007
+Crop_Name: Finger Millet
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: October to November
+Suitable_Conditions: Warm climate with moderate rainfall
+
+Chickpea
+Record_ID: S008
+Crop_Name: Chickpea
+Season: Rabi
+Sowing_Period: October to November
+Harvest_Period: February to March
+Suitable_Conditions: Cool dry climate with limited irrigation
+
+Pigeon Pea
+Record_ID: S009
+Crop_Name: Pigeon Pea
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: December to January
+Suitable_Conditions: Warm climate long duration crop
+
+Green Gram
+Record_ID: S010
+Crop_Name: Green Gram
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: September
+Suitable_Conditions: Warm humid climate short duration
+
+Green Gram
+Record_ID: S011
+Crop_Name: Green Gram
+Season: Zaid
+Sowing_Period: March to April
+Harvest_Period: June
+Suitable_Conditions: Warm dry summer season with irrigation
+
+Black Gram
+Record_ID: S012
+Crop_Name: Black Gram
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: September to October
+Suitable_Conditions: Warm humid climate
+
+Groundnut
+Record_ID: S013
+Crop_Name: Groundnut
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: October to November
+Suitable_Conditions: Warm climate with well distributed rainfall
+
+Groundnut
+Record_ID: S014
+Crop_Name: Groundnut
+Season: Rabi
+Sowing_Period: October to November
+Harvest_Period: February to March
+Suitable_Conditions: Mild winter climate with irrigation
+
+Soybean
+Record_ID: S015
+Crop_Name: Soybean
+Season: Kharif
+Sowing_Period: June to July
+Harvest_Period: September to October
+Suitable_Conditions: Warm humid climate with monsoon rainfall
+
+Sunflower
+Record_ID: S016
+Crop_Name: Sunflower
+Season: Rabi
+Sowing_Period: October to November
+Harvest_Period: January to February
+Suitable_Conditions: Cool dry weather with clear sunny days
+
+Mustard
+Record_ID: S017
+Crop_Name: Mustard
+Season: Rabi
+Sowing_Period: October to November
+Harvest_Period: February to March
+Suitable_Conditions: Cool dry climate
+
+Cotton
+Record_ID: S018
+Crop_Name: Cotton
+Season: Kharif
+Sowing_Period: May to June
+Harvest_Period: October to January
+Suitable_Conditions: Warm climate with a long frost free period
+
+Sugarcane
+Record_ID: S019
+Crop_Name: Sugarcane
+Season: Year round in suitable regions
+Sowing_Period: February to March or October to November
+Harvest_Period: December to March next year
+Suitable_Conditions: Warm humid climate with high water availability
+
+Tomato
+Record_ID: S020
+Crop_Name: Tomato
+Season: Kharif and Rabi
+Sowing_Period: June to July or October to November
+Harvest_Period: September to October or January to March
+Suitable_Conditions: Moderate temperature avoiding extreme heat or frost
+
+Potato
+Record_ID: S021
+Crop_Name: Potato
+Season: Rabi
+Sowing_Period: October to November
+Harvest_Period: January to February
+Suitable_Conditions: Cool climate with well drained soil
+
+Onion
+Record_ID: S022
+Crop_Name: Onion
+Season: Rabi
+Sowing_Period: October to December
+Harvest_Period: March to April
+Suitable_Conditions: Mild cool climate with dry harvest period
+
+Chilli
+Record_ID: S023
+Crop_Name: Chilli
+Season: Kharif and Rabi
+Sowing_Period: June to July or November to December
+Harvest_Period: October onward
+Suitable_Conditions: Warm climate with moderate rainfall
+
+Cabbage
+Record_ID: S024
+Crop_Name: Cabbage
+Season: Rabi
+Sowing_Period: September to October
+Harvest_Period: December to February
+Suitable_Conditions: Cool climate for head formation
+
+Cauliflower
+Record_ID: S025
+Crop_Name: Cauliflower
+Season: Rabi
+Sowing_Period: September to October
+Harvest_Period: December to February
+Suitable_Conditions: Cool climate for curd formation
+
+Turmeric
+Record_ID: S026
+Crop_Name: Turmeric
+Season: Kharif
+Sowing_Period: May to June
+Harvest_Period: January to March next year
+Suitable_Conditions: Warm humid climate with well distributed rainfall
+
+Ginger
+Record_ID: S027
+Crop_Name: Ginger
+Season: Kharif
+Sowing_Period: April to May
+Harvest_Period: December to January
+Suitable_Conditions: Warm humid climate with partial shade in early stage
+

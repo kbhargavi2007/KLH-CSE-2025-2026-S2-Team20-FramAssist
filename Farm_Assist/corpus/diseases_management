@@ -1,0 +1,175 @@
+Disease Management
+Source file: disease_management.txt
+Each entry below starts with a heading (Disease_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice Blast
+Record_ID: DM01
+Disease_Name: Rice Blast
+Prevention: Use resistant or tolerant varieties
+Cultural_Control: Avoid excess nitrogen and maintain balanced fertilization
+Biological_Control: Use of biocontrol agents where available as per expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Avoid continuous monoculture of susceptible varieties
+
+Bacterial Leaf Blight
+Record_ID: DM02
+Disease_Name: Bacterial Leaf Blight
+Prevention: Use resistant varieties and disease free seed
+Cultural_Control: Avoid field flooding and excess nitrogen
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Copper based bactericide may be recommended, verify product and dose with local agricultural expert
+Important_Precautions: Avoid working in field when leaves are wet to reduce spread
+
+Wheat Rust
+Record_ID: DM03
+Disease_Name: Wheat Rust
+Prevention: Use resistant or tolerant varieties
+Cultural_Control: Timely sowing to avoid favourable disease period
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Monitor fields regularly during cool humid weather
+
+Karnal Bunt
+Record_ID: DM04
+Disease_Name: Karnal Bunt
+Prevention: Use disease free certified seed
+Cultural_Control: Crop rotation and avoiding continuous wheat cultivation
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Seed treatment fungicide may be recommended, verify product and dose with local agricultural expert
+Important_Precautions: Follow quarantine regulations for seed movement from affected areas
+
+Fusarium Wilt
+Record_ID: DM05
+Disease_Name: Fusarium Wilt
+Prevention: Use resistant varieties and disease free seed
+Cultural_Control: Crop rotation with non host crops and field sanitation
+Biological_Control: Use of biocontrol agents such as Trichoderma where available as per expert advice
+Chemical_Control: Soil fungicide treatment may be recommended in severe cases, verify product and dose with local agricultural expert
+Important_Precautions: Avoid continuous cropping of susceptible crop in same field
+
+Ascochyta Blight
+Record_ID: DM06
+Disease_Name: Ascochyta Blight
+Prevention: Use resistant varieties and disease free seed
+Cultural_Control: Avoid dense sowing and ensure good field drainage
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Remove and destroy infected crop residue after harvest
+
+Groundnut Tikka Leaf Spot
+Record_ID: DM07
+Disease_Name: Groundnut Tikka Leaf Spot
+Prevention: Use tolerant varieties and disease free seed
+Cultural_Control: Timely sowing and balanced fertilization
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Monitor field regularly during warm humid weather
+
+Cotton Bacterial Blight
+Record_ID: DM08
+Disease_Name: Cotton Bacterial Blight
+Prevention: Use resistant varieties and disease free seed
+Cultural_Control: Avoid overhead irrigation and maintain field sanitation
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Copper based bactericide may be recommended, verify product and dose with local agricultural expert
+Important_Precautions: Remove and destroy infected plant debris after harvest
+
+Sugarcane Red Rot
+Record_ID: DM09
+Disease_Name: Sugarcane Red Rot
+Prevention: Use resistant varieties and disease free setts
+Cultural_Control: Crop rotation and proper drainage management
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Sett treatment fungicide may be recommended, verify product and dose with local agricultural expert
+Important_Precautions: Avoid ratooning in severely affected fields
+
+Tomato Early Blight
+Record_ID: DM10
+Disease_Name: Tomato Early Blight
+Prevention: Use tolerant varieties and disease free seedlings
+Cultural_Control: Crop rotation and removal of infected lower leaves
+Biological_Control: Use of biocontrol agents such as Trichoderma where available as per expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Avoid overhead irrigation to reduce leaf wetness
+
+Tomato and Potato Late Blight
+Record_ID: DM11
+Disease_Name: Tomato and Potato Late Blight
+Prevention: Use tolerant varieties and disease free planting material
+Cultural_Control: Avoid excess irrigation and ensure field drainage
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended protective fungicide spray, verify product and dose with local agricultural expert
+Important_Precautions: Destroy infected plant debris to reduce inoculum
+
+Leaf Curl Virus
+Record_ID: DM12
+Disease_Name: Leaf Curl Virus
+Prevention: Use resistant varieties and virus free planting material
+Cultural_Control: Remove and destroy infected plants promptly
+Biological_Control: Encourage natural enemies of whitefly vector
+Chemical_Control: Manage whitefly vector using recommended insecticide, verify product and dose with local agricultural expert
+Important_Precautions: Use of reflective mulch can help reduce whitefly landing
+
+Onion Purple Blotch
+Record_ID: DM13
+Disease_Name: Onion Purple Blotch
+Prevention: Use tolerant varieties and disease free seed
+Cultural_Control: Avoid dense planting and ensure field drainage
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Avoid irrigation late in the day to reduce leaf wetness
+
+Chilli Anthracnose or Die Back
+Record_ID: DM14
+Disease_Name: Chilli Anthracnose or Die Back
+Prevention: Use tolerant varieties and disease free seed
+Cultural_Control: Field sanitation and removal of infected fruit
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Avoid harvesting during wet conditions
+
+Cabbage Black Rot
+Record_ID: DM15
+Disease_Name: Cabbage Black Rot
+Prevention: Use resistant varieties and disease free seed
+Cultural_Control: Crop rotation and field sanitation
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Copper based bactericide may be recommended, verify product and dose with local agricultural expert
+Important_Precautions: Avoid overhead irrigation to reduce spread
+
+Banana Panama Wilt
+Record_ID: DM16
+Disease_Name: Banana Panama Wilt
+Prevention: Use resistant varieties and disease free planting material
+Cultural_Control: Avoid planting in known infested fields, field sanitation
+Biological_Control: Use of biocontrol agents such as Trichoderma where available as per expert advice
+Chemical_Control: Limited effective chemical control, verify options with local agricultural expert
+Important_Precautions: Avoid moving soil or planting material from infected fields
+
+Mango Powdery Mildew
+Record_ID: DM17
+Disease_Name: Mango Powdery Mildew
+Prevention: Use tolerant varieties where available
+Cultural_Control: Prune for good air circulation in canopy
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide or sulphur spray at flowering, verify product and dose with local agricultural expert
+Important_Precautions: Time sprays to coincide with flowering period
+
+Turmeric Leaf Blotch
+Record_ID: DM18
+Disease_Name: Turmeric Leaf Blotch
+Prevention: Use disease free rhizomes for planting
+Cultural_Control: Field sanitation and balanced fertilization
+Biological_Control: Limited biological options, follow expert advice
+Chemical_Control: Recommended fungicide spray at disease onset, verify product and dose with local agricultural expert
+Important_Precautions: Avoid dense planting to improve air circulation
+
+Ginger Rhizome Rot
+Record_ID: DM19
+Disease_Name: Ginger Rhizome Rot
+Prevention: Use disease free treated rhizomes for planting
+Cultural_Control: Ensure good field drainage and raised bed planting
+Biological_Control: Use of biocontrol agents such as Trichoderma where available as per expert advice
+Chemical_Control: Soil fungicide treatment may be recommended, verify product and dose with local agricultural expert
+Important_Precautions: Avoid waterlogging which strongly favours this disease
+

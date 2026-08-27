@@ -1,0 +1,301 @@
+Crops
+Source file: crops.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Crop_ID: C001
+Crop_Name: Rice
+Scientific_Name: Oryza sativa
+Crop_Type: Cereal
+Suitable_Season: Kharif
+Suitable_Soil: Clay loam alluvial soil
+Water_Requirement: High
+Growth_Duration: 120-150 days
+Major_Uses: Staple food grain
+
+Wheat
+Crop_ID: C002
+Crop_Name: Wheat
+Scientific_Name: Triticum aestivum
+Crop_Type: Cereal
+Suitable_Season: Rabi
+Suitable_Soil: Loam to clay loam soil
+Water_Requirement: Medium
+Growth_Duration: 110-150 days
+Major_Uses: Staple food grain flour
+
+Maize
+Crop_ID: C003
+Crop_Name: Maize
+Scientific_Name: Zea mays
+Crop_Type: Cereal
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-120 days
+Major_Uses: Food feed and industrial starch
+
+Sorghum
+Crop_ID: C004
+Crop_Name: Sorghum
+Scientific_Name: Sorghum bicolor
+Crop_Type: Cereal
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Medium to heavy soil
+Water_Requirement: Low to medium
+Growth_Duration: 100-120 days
+Major_Uses: Food and fodder
+
+Pearl Millet
+Crop_ID: C005
+Crop_Name: Pearl Millet
+Scientific_Name: Pennisetum glaucum
+Crop_Type: Cereal
+Suitable_Season: Kharif
+Suitable_Soil: Sandy to sandy loam soil
+Water_Requirement: Low
+Growth_Duration: 75-90 days
+Major_Uses: Food and fodder in dry regions
+
+Finger Millet
+Crop_ID: C006
+Crop_Name: Finger Millet
+Scientific_Name: Eleusine coracana
+Crop_Type: Cereal
+Suitable_Season: Kharif
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Low to medium
+Growth_Duration: 110-135 days
+Major_Uses: Food grain rich in calcium
+
+Chickpea
+Crop_ID: C007
+Crop_Name: Chickpea
+Scientific_Name: Cicer arietinum
+Crop_Type: Pulse
+Suitable_Season: Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Low
+Growth_Duration: 90-120 days
+Major_Uses: Pulse crop protein source
+
+Pigeon Pea
+Crop_ID: C008
+Crop_Name: Pigeon Pea
+Scientific_Name: Cajanus cajan
+Crop_Type: Pulse
+Suitable_Season: Kharif
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Low to medium
+Growth_Duration: 150-180 days
+Major_Uses: Pulse crop protein source
+
+Green Gram
+Crop_ID: C009
+Crop_Name: Green Gram
+Scientific_Name: Vigna radiata
+Crop_Type: Pulse
+Suitable_Season: Kharif and Zaid
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Low
+Growth_Duration: 60-90 days
+Major_Uses: Pulse crop short duration
+
+Black Gram
+Crop_ID: C010
+Crop_Name: Black Gram
+Scientific_Name: Vigna mungo
+Crop_Type: Pulse
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Low
+Growth_Duration: 70-90 days
+Major_Uses: Pulse crop protein source
+
+Groundnut
+Crop_ID: C011
+Crop_Name: Groundnut
+Scientific_Name: Arachis hypogaea
+Crop_Type: Oilseed
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Sandy loam soil
+Water_Requirement: Medium
+Growth_Duration: 100-130 days
+Major_Uses: Edible oil and protein
+
+Soybean
+Crop_ID: C012
+Crop_Name: Soybean
+Scientific_Name: Glycine max
+Crop_Type: Oilseed
+Suitable_Season: Kharif
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-120 days
+Major_Uses: Edible oil and protein meal
+
+Sunflower
+Crop_ID: C013
+Crop_Name: Sunflower
+Scientific_Name: Helianthus annuus
+Crop_Type: Oilseed
+Suitable_Season: Kharif Rabi and Zaid
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-110 days
+Major_Uses: Edible oil
+
+Mustard
+Crop_ID: C014
+Crop_Name: Mustard
+Scientific_Name: Brassica juncea
+Crop_Type: Oilseed
+Suitable_Season: Rabi
+Suitable_Soil: Loam to clay loam soil
+Water_Requirement: Low to medium
+Growth_Duration: 110-145 days
+Major_Uses: Edible oil and condiment
+
+Cotton
+Crop_ID: C015
+Crop_Name: Cotton
+Scientific_Name: Gossypium hirsutum
+Crop_Type: Fibre
+Suitable_Season: Kharif
+Suitable_Soil: Black cotton soil
+Water_Requirement: Medium
+Growth_Duration: 160-200 days
+Major_Uses: Natural fibre for textiles
+
+Sugarcane
+Crop_ID: C016
+Crop_Name: Sugarcane
+Scientific_Name: Saccharum officinarum
+Crop_Type: Cash crop
+Suitable_Season: Year round planting
+Suitable_Soil: Deep well drained loam soil
+Water_Requirement: High
+Growth_Duration: 10-12 months
+Major_Uses: Sugar and jaggery
+
+Tomato
+Crop_ID: C017
+Crop_Name: Tomato
+Scientific_Name: Solanum lycopersicum
+Crop_Type: Vegetable
+Suitable_Season: Kharif Rabi and Zaid
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-120 days
+Major_Uses: Vegetable and processing
+
+Potato
+Crop_ID: C018
+Crop_Name: Potato
+Scientific_Name: Solanum tuberosum
+Crop_Type: Vegetable
+Suitable_Season: Rabi
+Suitable_Soil: Well drained sandy loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-120 days
+Major_Uses: Vegetable tuber crop
+
+Onion
+Crop_ID: C019
+Crop_Name: Onion
+Scientific_Name: Allium cepa
+Crop_Type: Vegetable
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 110-150 days
+Major_Uses: Bulb vegetable and spice
+
+Chilli
+Crop_ID: C020
+Crop_Name: Chilli
+Scientific_Name: Capsicum annuum
+Crop_Type: Vegetable and Spice
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 150-180 days
+Major_Uses: Spice and vegetable
+
+Brinjal
+Crop_ID: C021
+Crop_Name: Brinjal
+Scientific_Name: Solanum melongena
+Crop_Type: Vegetable
+Suitable_Season: Kharif and Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 120-150 days
+Major_Uses: Vegetable crop
+
+Cabbage
+Crop_ID: C022
+Crop_Name: Cabbage
+Scientific_Name: Brassica oleracea var capitata
+Crop_Type: Vegetable
+Suitable_Season: Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-120 days
+Major_Uses: Leafy vegetable
+
+Cauliflower
+Crop_ID: C023
+Crop_Name: Cauliflower
+Scientific_Name: Brassica oleracea var botrytis
+Crop_Type: Vegetable
+Suitable_Season: Rabi
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 90-120 days
+Major_Uses: Vegetable crop
+
+Banana
+Crop_ID: C024
+Crop_Name: Banana
+Scientific_Name: Musa spp
+Crop_Type: Fruit
+Suitable_Season: Year round planting
+Suitable_Soil: Deep well drained loam soil
+Water_Requirement: High
+Growth_Duration: 11-13 months
+Major_Uses: Fresh fruit consumption
+
+Mango
+Crop_ID: C025
+Crop_Name: Mango
+Scientific_Name: Mangifera indica
+Crop_Type: Fruit
+Suitable_Season: Perennial tree crop
+Suitable_Soil: Well drained deep soil
+Water_Requirement: Low to medium once established
+Growth_Duration: 3-5 years to first bearing
+Major_Uses: Fresh fruit and processing
+
+Turmeric
+Crop_ID: C026
+Crop_Name: Turmeric
+Scientific_Name: Curcuma longa
+Crop_Type: Spice
+Suitable_Season: Kharif
+Suitable_Soil: Well drained loam soil
+Water_Requirement: Medium
+Growth_Duration: 8-9 months
+Major_Uses: Spice and medicinal use
+
+Ginger
+Crop_ID: C027
+Crop_Name: Ginger
+Scientific_Name: Zingiber officinale
+Crop_Type: Spice
+Suitable_Season: Kharif
+Suitable_Soil: Well drained loam soil rich in organic matter
+Water_Requirement: Medium
+Growth_Duration: 8-9 months
+Major_Uses: Spice and medicinal use
+

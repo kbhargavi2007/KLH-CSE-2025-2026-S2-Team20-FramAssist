@@ -1,0 +1,193 @@
+Crop and Climate Requirements
+Source file: crop_climate.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Record_ID: CL01
+Crop_Name: Rice
+Temperature_Range: 20 to 35 degree Celsius
+Rainfall_Requirement: 1000 to 2000 mm or assured irrigation
+Humidity: High
+Climate_Type: Warm humid tropical
+Climate_Notes: Sensitive to frost and prolonged drought
+
+Wheat
+Record_ID: CL02
+Crop_Name: Wheat
+Temperature_Range: 10 to 25 degree Celsius
+Rainfall_Requirement: 400 to 600 mm or irrigation
+Humidity: Low to medium
+Climate_Type: Cool subtropical
+Climate_Notes: Warm temperature at grain filling reduces yield
+
+Maize
+Record_ID: CL03
+Crop_Name: Maize
+Temperature_Range: 18 to 32 degree Celsius
+Rainfall_Requirement: 500 to 800 mm
+Humidity: Medium
+Climate_Type: Warm tropical and subtropical
+Climate_Notes: Sensitive to waterlogging and frost
+
+Sorghum
+Record_ID: CL04
+Crop_Name: Sorghum
+Temperature_Range: 25 to 32 degree Celsius
+Rainfall_Requirement: 400 to 600 mm
+Humidity: Low
+Climate_Type: Warm semi arid
+Climate_Notes: Tolerant to moisture stress
+
+Pearl Millet
+Record_ID: CL05
+Crop_Name: Pearl Millet
+Temperature_Range: 25 to 35 degree Celsius
+Rainfall_Requirement: 350 to 500 mm
+Humidity: Low
+Climate_Type: Hot arid and semi arid
+Climate_Notes: Suited to drought prone regions
+
+Chickpea
+Record_ID: CL06
+Crop_Name: Chickpea
+Temperature_Range: 10 to 25 degree Celsius
+Rainfall_Requirement: 300 to 400 mm
+Humidity: Low
+Climate_Type: Cool dry
+Climate_Notes: Excess moisture at flowering causes flower drop
+
+Pigeon Pea
+Record_ID: CL07
+Crop_Name: Pigeon Pea
+Temperature_Range: 18 to 30 degree Celsius
+Rainfall_Requirement: 600 to 1000 mm
+Humidity: Medium
+Climate_Type: Warm tropical
+Climate_Notes: Long duration crop tolerant of moisture stress once established
+
+Groundnut
+Record_ID: CL08
+Crop_Name: Groundnut
+Temperature_Range: 20 to 30 degree Celsius
+Rainfall_Requirement: 500 to 750 mm
+Humidity: Medium
+Climate_Type: Warm semi arid
+Climate_Notes: Requires dry weather during pod maturity
+
+Soybean
+Record_ID: CL09
+Crop_Name: Soybean
+Temperature_Range: 20 to 30 degree Celsius
+Rainfall_Requirement: 600 to 1000 mm
+Humidity: Medium to high
+Climate_Type: Warm humid
+Climate_Notes: Sensitive to waterlogging
+
+Sunflower
+Record_ID: CL10
+Crop_Name: Sunflower
+Temperature_Range: 20 to 25 degree Celsius
+Rainfall_Requirement: 500 to 750 mm
+Humidity: Medium
+Climate_Type: Mild warm
+Climate_Notes: Requires clear sunny days for pollination
+
+Mustard
+Record_ID: CL11
+Crop_Name: Mustard
+Temperature_Range: 10 to 25 degree Celsius
+Rainfall_Requirement: 300 to 400 mm
+Humidity: Low
+Climate_Type: Cool dry
+Climate_Notes: Frost at flowering can reduce yield
+
+Cotton
+Record_ID: CL12
+Crop_Name: Cotton
+Temperature_Range: 21 to 30 degree Celsius
+Rainfall_Requirement: 600 to 1000 mm
+Humidity: Medium
+Climate_Type: Warm with long frost free period
+Climate_Notes: Requires dry weather at boll opening and picking
+
+Sugarcane
+Record_ID: CL13
+Crop_Name: Sugarcane
+Temperature_Range: 20 to 35 degree Celsius
+Rainfall_Requirement: 1200 to 1500 mm or irrigation
+Humidity: High
+Climate_Type: Warm humid tropical
+Climate_Notes: Sensitive to frost and waterlogging
+
+Tomato
+Record_ID: CL14
+Crop_Name: Tomato
+Temperature_Range: 18 to 27 degree Celsius
+Rainfall_Requirement: Moderate with irrigation support
+Humidity: Medium
+Climate_Type: Mild warm
+Climate_Notes: Fruit set affected by very high or low temperature
+
+Potato
+Record_ID: CL15
+Crop_Name: Potato
+Temperature_Range: 15 to 20 degree Celsius
+Rainfall_Requirement: Moderate with irrigation support
+Humidity: Medium
+Climate_Type: Cool
+Climate_Notes: Tuber formation favoured by cool nights
+
+Onion
+Record_ID: CL16
+Crop_Name: Onion
+Temperature_Range: 13 to 25 degree Celsius
+Rainfall_Requirement: Moderate with irrigation support
+Humidity: Low to medium
+Climate_Type: Mild dry
+Climate_Notes: Dry weather needed near harvest for bulb curing
+
+Chilli
+Record_ID: CL17
+Crop_Name: Chilli
+Temperature_Range: 20 to 30 degree Celsius
+Rainfall_Requirement: 600 to 1250 mm or irrigation
+Humidity: Medium
+Climate_Type: Warm
+Climate_Notes: Sensitive to frost and waterlogging
+
+Banana
+Record_ID: CL18
+Crop_Name: Banana
+Temperature_Range: 15 to 35 degree Celsius
+Rainfall_Requirement: 1200 to 2200 mm or irrigation
+Humidity: High
+Climate_Type: Warm humid tropical
+Climate_Notes: Sensitive to strong wind and frost
+
+Mango
+Record_ID: CL19
+Crop_Name: Mango
+Temperature_Range: 24 to 30 degree Celsius
+Rainfall_Requirement: 750 to 2500 mm depending on region
+Humidity: Medium
+Climate_Type: Tropical and subtropical
+Climate_Notes: Dry weather during flowering improves fruit set
+
+Turmeric
+Record_ID: CL20
+Crop_Name: Turmeric
+Temperature_Range: 20 to 30 degree Celsius
+Rainfall_Requirement: 1500 to 2250 mm or irrigation
+Humidity: High
+Climate_Type: Warm humid tropical
+Climate_Notes: Requires well distributed rainfall through growing season
+
+Ginger
+Record_ID: CL21
+Crop_Name: Ginger
+Temperature_Range: 19 to 28 degree Celsius
+Rainfall_Requirement: 1500 to 3000 mm or irrigation
+Humidity: High
+Climate_Type: Warm humid
+Climate_Notes: Prefers partial shade in early growth stage
+

@@ -1,0 +1,202 @@
+Diseases
+Source file: diseases.txt
+Each entry below starts with a heading (Disease_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice Blast
+Disease_ID: D001
+Disease_Name: Rice Blast
+Causal_Agent: Magnaporthe oryzae
+Disease_Type: Fungal
+Affected_Crops: Rice
+Main_Symptoms: Spindle shaped lesions on leaves and neck rot at panicle stage
+Favorable_Conditions: High humidity with moderate temperature and excess nitrogen
+
+Bacterial Leaf Blight
+Disease_ID: D002
+Disease_Name: Bacterial Leaf Blight
+Causal_Agent: Xanthomonas oryzae
+Disease_Type: Bacterial
+Affected_Crops: Rice
+Main_Symptoms: Water soaked streaks turning yellow to white on leaf margins
+Favorable_Conditions: High humidity and warm temperature with standing water
+
+Wheat Rust
+Disease_ID: D003
+Disease_Name: Wheat Rust
+Causal_Agent: Puccinia species
+Disease_Type: Fungal
+Affected_Crops: Wheat
+Main_Symptoms: Reddish brown or black pustules on leaves and stems
+Favorable_Conditions: Cool humid weather with dew formation
+
+Karnal Bunt
+Disease_ID: D004
+Disease_Name: Karnal Bunt
+Causal_Agent: Tilletia indica
+Disease_Type: Fungal
+Affected_Crops: Wheat
+Main_Symptoms: Partial conversion of grain to black powdery mass with foul odour
+Favorable_Conditions: Cool humid weather during flowering
+
+Maize Turcicum Leaf Blight
+Disease_ID: D005
+Disease_Name: Maize Turcicum Leaf Blight
+Causal_Agent: Exserohilum turcicum
+Disease_Type: Fungal
+Affected_Crops: Maize
+Main_Symptoms: Long elliptical grey green lesions on leaves
+Favorable_Conditions: Warm humid weather with high moisture
+
+Fusarium Wilt
+Disease_ID: D006
+Disease_Name: Fusarium Wilt
+Causal_Agent: Fusarium oxysporum
+Disease_Type: Fungal
+Affected_Crops: Chickpea Tomato Cotton and various crops
+Main_Symptoms: Yellowing and wilting of plant often one sided
+Favorable_Conditions: Warm soil temperature with continuous cropping of same crop
+
+Ascochyta Blight
+Disease_ID: D007
+Disease_Name: Ascochyta Blight
+Causal_Agent: Ascochyta rabiei
+Disease_Type: Fungal
+Affected_Crops: Chickpea
+Main_Symptoms: Circular lesions with concentric rings on leaves stems and pods
+Favorable_Conditions: Cool humid weather with cloudy conditions
+
+Groundnut Tikka Leaf Spot
+Disease_ID: D008
+Disease_Name: Groundnut Tikka Leaf Spot
+Causal_Agent: Cercospora species
+Disease_Type: Fungal
+Affected_Crops: Groundnut
+Main_Symptoms: Circular brown spots with yellow halo on leaves
+Favorable_Conditions: Warm humid weather with high rainfall
+
+Collar Rot
+Disease_ID: D009
+Disease_Name: Collar Rot
+Causal_Agent: Sclerotium rolfsii
+Disease_Type: Fungal
+Affected_Crops: Groundnut and various crops
+Main_Symptoms: Rotting at collar region with white fungal growth and rolling of seedlings
+Favorable_Conditions: Warm humid weather with high soil moisture
+
+Cotton Bacterial Blight
+Disease_ID: D010
+Disease_Name: Cotton Bacterial Blight
+Causal_Agent: Xanthomonas citri pv malvacearum
+Disease_Type: Bacterial
+Affected_Crops: Cotton
+Main_Symptoms: Angular water soaked spots on leaves turning black with veinal blackening
+Favorable_Conditions: Warm humid weather with rain splash
+
+Sugarcane Red Rot
+Disease_ID: D011
+Disease_Name: Sugarcane Red Rot
+Causal_Agent: Colletotrichum falcatum
+Disease_Type: Fungal
+Affected_Crops: Sugarcane
+Main_Symptoms: Reddening of internal stalk tissue with white patches and characteristic alcoholic smell
+Favorable_Conditions: Warm humid weather with waterlogging
+
+Tomato Early Blight
+Disease_ID: D012
+Disease_Name: Tomato Early Blight
+Causal_Agent: Alternaria solani
+Disease_Type: Fungal
+Affected_Crops: Tomato Potato
+Main_Symptoms: Concentric ring spots on older leaves progressing upward
+Favorable_Conditions: Warm humid weather with alternating wet and dry periods
+
+Tomato Late Blight
+Disease_ID: D013
+Disease_Name: Tomato Late Blight
+Causal_Agent: Phytophthora infestans
+Disease_Type: Oomycete pathogen
+Affected_Crops: Tomato Potato
+Main_Symptoms: Water soaked lesions on leaves turning brown with white fungal growth on undersurface
+Favorable_Conditions: Cool moist weather with high humidity
+
+Leaf Curl Virus
+Disease_ID: D014
+Disease_Name: Leaf Curl Virus
+Causal_Agent: Begomovirus transmitted by whitefly
+Disease_Type: Viral
+Affected_Crops: Tomato Chilli Cotton
+Main_Symptoms: Upward curling and crinkling of leaves with stunted growth
+Favorable_Conditions: Warm weather favouring whitefly vector population
+
+Potato Late Blight
+Disease_ID: D015
+Disease_Name: Potato Late Blight
+Causal_Agent: Phytophthora infestans
+Disease_Type: Oomycete pathogen
+Affected_Crops: Potato
+Main_Symptoms: Water soaked lesions on leaves and stems with tuber rot in storage
+Favorable_Conditions: Cool moist weather with high humidity
+
+Onion Purple Blotch
+Disease_ID: D016
+Disease_Name: Onion Purple Blotch
+Causal_Agent: Alternaria porri
+Disease_Type: Fungal
+Affected_Crops: Onion
+Main_Symptoms: Purplish brown lesions with concentric zonation on leaves
+Favorable_Conditions: Warm humid weather with dew formation
+
+Chilli Anthracnose or Die Back
+Disease_ID: D017
+Disease_Name: Chilli Anthracnose or Die Back
+Causal_Agent: Colletotrichum species
+Disease_Type: Fungal
+Affected_Crops: Chilli
+Main_Symptoms: Sunken circular spots on fruits and dieback of twigs
+Favorable_Conditions: Warm humid weather with high rainfall
+
+Cabbage Black Rot
+Disease_ID: D018
+Disease_Name: Cabbage Black Rot
+Causal_Agent: Xanthomonas campestris
+Disease_Type: Bacterial
+Affected_Crops: Cabbage Cauliflower
+Main_Symptoms: V shaped yellow lesions from leaf margin with blackened veins
+Favorable_Conditions: Warm humid weather with rain splash
+
+Banana Panama Wilt
+Disease_ID: D019
+Disease_Name: Banana Panama Wilt
+Causal_Agent: Fusarium oxysporum f sp cubense
+Disease_Type: Fungal
+Affected_Crops: Banana
+Main_Symptoms: Yellowing of older leaves progressing upward with splitting of pseudostem
+Favorable_Conditions: Warm soil temperature with continuous cropping
+
+Mango Powdery Mildew
+Disease_ID: D020
+Disease_Name: Mango Powdery Mildew
+Causal_Agent: Oidium mangiferae
+Disease_Type: Fungal
+Affected_Crops: Mango
+Main_Symptoms: White powdery growth on flower panicles and young leaves
+Favorable_Conditions: Cool dry weather during flowering season
+
+Turmeric Leaf Blotch
+Disease_ID: D021
+Disease_Name: Turmeric Leaf Blotch
+Causal_Agent: Colletotrichum capsici
+Disease_Type: Fungal
+Affected_Crops: Turmeric
+Main_Symptoms: Irregular brown spots with yellow halo on leaves
+Favorable_Conditions: Warm humid weather with high rainfall
+
+Ginger Rhizome Rot
+Disease_ID: D022
+Disease_Name: Ginger Rhizome Rot
+Causal_Agent: Pythium and Fusarium species
+Disease_Type: Fungal
+Affected_Crops: Ginger
+Main_Symptoms: Yellowing and wilting of pseudostem with soft rotten rhizome
+Favorable_Conditions: Warm humid weather with waterlogging
+

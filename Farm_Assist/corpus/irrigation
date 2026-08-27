@@ -1,0 +1,148 @@
+Irrigation
+Source file: irrigation.txt
+Each entry below starts with a heading (Crop_Name) followed by its field values, one "Field_Name: Value" line per field, in the same order as the original .txt file.
+
+Rice
+Record_ID: IR01
+Crop_Name: Rice
+Irrigation_Method: Flood or basin irrigation
+Water_Requirement: High, standing water generally maintained
+Critical_Irrigation_Stages: Transplanting tillering panicle initiation and flowering
+Frequency_or_Guidance: Maintain shallow standing water through most of crop growth, verify local schedule with agricultural expert
+Important_Notes: Alternate wetting and drying can be used to save water
+
+Wheat
+Record_ID: IR02
+Crop_Name: Wheat
+Irrigation_Method: Surface or sprinkler irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Crown root initiation tillering flowering and grain filling
+Frequency_or_Guidance: Generally four to six irrigations depending on soil and rainfall, verify with local agricultural expert
+Important_Notes: Avoid irrigation stress at crown root initiation stage
+
+Maize
+Record_ID: IR03
+Crop_Name: Maize
+Irrigation_Method: Surface or sprinkler irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Knee high stage tasseling silking and grain filling
+Frequency_or_Guidance: Irrigate at critical stages avoiding waterlogging, verify schedule with local agricultural expert
+Important_Notes: Sensitive to both moisture stress and waterlogging
+
+Chickpea
+Record_ID: IR04
+Crop_Name: Chickpea
+Irrigation_Method: Generally rainfed with limited irrigation
+Water_Requirement: Low
+Critical_Irrigation_Stages: Branching and pod development
+Frequency_or_Guidance: One or two protective irrigations if available, verify with local agricultural expert
+Important_Notes: Excess irrigation increases risk of wilt disease
+
+Groundnut
+Record_ID: IR05
+Crop_Name: Groundnut
+Irrigation_Method: Surface or sprinkler irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Flowering pegging and pod development
+Frequency_or_Guidance: Irrigate at critical stages, verify schedule with local agricultural expert
+Important_Notes: Moisture stress at pegging reduces pod set
+
+Soybean
+Record_ID: IR06
+Crop_Name: Soybean
+Irrigation_Method: Generally rainfed with supplemental irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Flowering and pod filling
+Frequency_or_Guidance: Irrigate during dry spells if available, verify with local agricultural expert
+Important_Notes: Waterlogging is more damaging than short term moisture stress
+
+Cotton
+Record_ID: IR07
+Crop_Name: Cotton
+Irrigation_Method: Surface or drip irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Flowering and boll development
+Frequency_or_Guidance: Irrigate at critical stages avoiding excess moisture at boll opening, verify with local agricultural expert
+Important_Notes: Drip irrigation improves water use efficiency
+
+Sugarcane
+Record_ID: IR08
+Crop_Name: Sugarcane
+Irrigation_Method: Surface or drip irrigation
+Water_Requirement: High
+Critical_Irrigation_Stages: Germination tillering and grand growth phase
+Frequency_or_Guidance: Frequent irrigation especially in grand growth phase, verify schedule with local agricultural expert
+Important_Notes: Drip irrigation can substantially improve water use efficiency
+
+Tomato
+Record_ID: IR09
+Crop_Name: Tomato
+Irrigation_Method: Drip or furrow irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Flowering and fruit development
+Frequency_or_Guidance: Frequent light irrigation avoiding waterlogging, verify schedule with local agricultural expert
+Important_Notes: Uneven irrigation can cause fruit cracking and blossom end rot
+
+Potato
+Record_ID: IR10
+Crop_Name: Potato
+Irrigation_Method: Furrow or sprinkler irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Tuber initiation and bulking
+Frequency_or_Guidance: Frequent light irrigation avoiding waterlogging, verify schedule with local agricultural expert
+Important_Notes: Water stress during bulking reduces tuber size
+
+Onion
+Record_ID: IR11
+Crop_Name: Onion
+Irrigation_Method: Furrow or drip irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Bulb development
+Frequency_or_Guidance: Frequent light irrigation stopped before harvest for curing, verify schedule with local agricultural expert
+Important_Notes: Excess irrigation near harvest affects storage quality
+
+Chilli
+Record_ID: IR12
+Crop_Name: Chilli
+Irrigation_Method: Drip or furrow irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Flowering and fruit development
+Frequency_or_Guidance: Frequent light irrigation avoiding waterlogging, verify schedule with local agricultural expert
+Important_Notes: Moisture stress can cause flower and fruit drop
+
+Banana
+Record_ID: IR13
+Crop_Name: Banana
+Irrigation_Method: Drip irrigation preferred
+Water_Requirement: High
+Critical_Irrigation_Stages: Throughout growth especially bunch development
+Frequency_or_Guidance: Frequent irrigation essential due to shallow root system, verify schedule with local agricultural expert
+Important_Notes: Drip irrigation with fertigation improves yield and water efficiency
+
+Mango
+Record_ID: IR14
+Crop_Name: Mango
+Irrigation_Method: Basin irrigation for young trees, minimal for bearing trees
+Water_Requirement: Low to medium
+Critical_Irrigation_Stages: Flowering and fruit development in young orchards
+Frequency_or_Guidance: Irrigation mainly needed for young trees, verify schedule with local agricultural expert
+Important_Notes: Withholding irrigation before flowering can help induce flowering
+
+Turmeric
+Record_ID: IR15
+Crop_Name: Turmeric
+Irrigation_Method: Furrow or drip irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Rhizome initiation and development
+Frequency_or_Guidance: Frequent light irrigation especially in early growth, verify schedule with local agricultural expert
+Important_Notes: Avoid waterlogging to reduce rhizome rot risk
+
+Ginger
+Record_ID: IR16
+Crop_Name: Ginger
+Irrigation_Method: Furrow or drip irrigation
+Water_Requirement: Medium
+Critical_Irrigation_Stages: Rhizome initiation and development
+Frequency_or_Guidance: Frequent light irrigation with good drainage, verify schedule with local agricultural expert
+Important_Notes: Mulching helps conserve soil moisture
+
