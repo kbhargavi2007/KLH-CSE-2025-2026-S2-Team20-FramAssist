@@ -1,0 +1,37 @@
+CROP INFORMATION
+
+Crop_ID: C016
+Crop_Name: Green Gram
+Scientific_Name: Vigna radiata
+Crop_Type: Pulse
+Suitable_Season: Kharif/Rabi
+Preferred_Soil: Well-drained loam
+Water_Requirement: Low
+Growth_Duration: 60-90 days
+Rainfall_or_Irrigation: 350-600 mm
+
+CULTIVATION
+Planting_Method: Line sowing
+Cultivation_Practice: Use healthy planting material, prepare a suitable seedbed, maintain suitable spacing, remove weeds early, and monitor the crop regularly.
+Irrigation: Provide water according to crop stage and soil moisture; avoid prolonged waterlogging unless the crop specifically tolerates it.
+Nutrient_Management: Apply organic manure and balanced NPK based on soil-test results and local agricultural recommendations.
+Weed_Management: Timely hand weeding/intercultivation and locally recommended herbicide options where appropriate.
+
+PESTS AND DISEASES
+Major_Diseases: Yellow mosaic disease; powdery mildew; Cercospora leaf spot
+Common_Pests: Whitefly; thrips; pod borer
+Disease_Prevention: Use healthy seed and control volunteer hosts
+Pest_Management: Scout the crop regularly, conserve beneficial organisms, remove heavily affected plant material, and use integrated pest management.
+Pesticide_Guidance: Use locally registered, label-approved products only; verify with an agricultural expert
+
+SEED_INFORMATION
+Seed_or_Planting_Material: Use certified, healthy, disease-free seed, seedlings, cuttings, setts, rhizomes, suckers, or grafted plants as appropriate for the crop.
+Seed_Treatment: Follow the seed-treatment recommendation on the product label or from a local agricultural expert before planting.
+
+HARVESTING_AND_STORAGE
+Harvesting: Harvest pods as they mature
+Storage: Clean, grade and dry harvested produce appropriately; store in a clean, dry, ventilated facility suitable for the commodity.
+Post_Harvest_Problems: Moisture damage, fungal spoilage, insects, bruising or quality loss can occur if handling and storage conditions are poor.
+
+MAJOR_USES: Pulse and sprout
+SAFETY_NOTE: Pesticide choices and application rates vary by crop, pest, location and current registration. Use only legally registered products and follow the label and local agricultural guidance.
