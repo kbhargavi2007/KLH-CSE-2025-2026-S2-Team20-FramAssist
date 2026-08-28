@@ -1,3 +1,5 @@
+**Team Lead: Bhargavi**
+**Guide: Dr. Vinay Kumar**
 # Creating the Project Folder in VS Code
 
 The first step in developing the **Farm Assist** project is to create and organize the project folder in **Visual Studio Code**. A proper folder structure helps keep the source code, documents, and different modules of the project organized.
