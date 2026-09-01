@@ -1,6 +1,6 @@
 **Guide: Dr. Vinay Kumar**
 **Team Lead: Bhargavi**
-**Team Memebers: 
+**Team Members: 
 M. Siri Chandana - 2520030603
 G. Nandini       - 2520030300**
 
