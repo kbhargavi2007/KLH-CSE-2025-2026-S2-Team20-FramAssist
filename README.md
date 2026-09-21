@@ -52,6 +52,8 @@ Create:
 ```text
 CorpusReader/
 FileSearcher/
+EditDistance/
+MaxFlow/
 ZAlgorithm.java
 Main.java
 ```
