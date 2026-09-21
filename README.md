@@ -63,22 +63,22 @@ The `CorpusReader` folder contains the files responsible for reading the documen
 The final structure of the project in VS Code will look like:
 
 ```text
-Farm Assist/
+Farm_Assist/
 │
 ├── corpus/
-│   ├── Agriculture.docx
-│   ├── Crops.docx
-│   ├── Fertilizers.docx
-│   └── PestControl.docx
 │
-├── CorpusReader/
-│   └── CorpusReader.java
-│
-├── FileSearcher/
-│   └── FileSearcher.java
-│
-├── ZAlgorithm.java
+├── CorpusReader.class
+├── CorpusReader.java
+├── EditDistance.class
+├── EditDistance.java
+├── FileSearcher.class
+├── FileSearcher.java
+├── Main.class
 ├── Main.java
+├── MaxFlow.class
+├── MaxFlow.java
+├── ZAlgorithm.class
+└── ZAlgorithm.java
 └── README.md
 ```
 
