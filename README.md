@@ -66,22 +66,26 @@ The final structure of the project in VS Code will look like:
 
 ```text
 Farm_Assist/
-│
-├── corpus/
-│
-├── CorpusReader.class
+│__Corpus
+├── Benchmark.java
 ├── CorpusReader.java
-├── EditDistance.class
+├── CropFieldMatcher.java
+├── CropRecord.java
 ├── EditDistance.java
-├── FileSearcher.class
+├── FieldInspector.java
 ├── FileSearcher.java
-├── Main.class
+├── IntList.java
+├── KMP.java
+├── KnowledgeBase.java
 ├── Main.java
-├── MaxFlow.class
 ├── MaxFlow.java
-├── ZAlgorithm.class
+├── NaiveSearch.java
+├── RabinKarp.java
+├── ReservoirSampler.java
+├── RoutePlanner.java
+├── Util.java
 └── ZAlgorithm.java
-└── README.md
+|__ReadMe
 ```
 
 This structure keeps the project **organized, modular, and easy to maintain**, with documents and source-code components separated according to their purpose.
